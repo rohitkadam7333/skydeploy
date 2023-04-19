@@ -1,0 +1,74 @@
+.row{
+    margin-top: 5%; 
+    display: flex;
+    justify-content: space-between;
+} 
+.about-us{
+    width: 90%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 35px;
+    background-color: rgb(52, 45, 175);
+    padding-right: 7%;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+.about-us h1{
+    padding-left: 5%;
+} 
+.about-us p{
+    padding-left: 5%;
+    padding-right: 10%;
+    color: white;
+} 
+.innerPageSection{
+    align-items: center;
+}
+.h3{
+    text-align: center;
+}
+.p{
+    text-align:center;
+}
+.about-end{
+    margin-top: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.course{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+.p-mid{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+    font-size: medium;
+}
+.row{
+    margin-top: 5%; 
+    display: flex;
+    justify-content: space-between;
+}
+.course-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    border-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+    background-color:whitesmoke;
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    color: #f44336;
+}
