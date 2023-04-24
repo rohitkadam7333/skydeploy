@@ -72,3 +72,33 @@ h3{
     margin: 10px 0;
     color: #f44336;
 }
+
+@media (max-width: 700px){
+    /* .img{
+        display: none;
+    }
+    .elementor-elementelementor-element-119983celementor-widgetelementor-widget-image{
+        display: none;
+    }
+    .course{
+        display: none;
+    } */
+    .row{
+        flex-direction: column;
+    }
+    .img {
+        width: 300px;
+        height: 200px;
+        margin: 5px;
+        padding: 5px;
+      }
+    .elementor-elementelementor-element-119983celementor-widgetelementor-widget-image{
+        display: none;
+    }
+    .course{
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding: 15px;
+    }
+}
